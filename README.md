@@ -1,5 +1,3 @@
-# Module 12 Report
-
 # Credit Risk Analysis Report
 ## Overview of the Analysis
 The purpose of this analysis was to develop and evaluate machine learning models to predict the risk level of loans based on various financial features. The goal was to classify loans into two categories: 0 for healthy loans (low-risk) and 1 for high-risk loans. This prediction allows a financial institution to better manage and assess the risk of loans they are issuing.
